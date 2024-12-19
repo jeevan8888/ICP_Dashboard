@@ -1,0 +1,182 @@
+[
+    {
+      "timestamp": "2024-12-01T00:00:00Z",
+      "tvl": 150000000,
+      "category": "DeFi",
+      "interval": "weekly",
+      "currency": "USD",
+      "change_percentage": 0,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-02T00:00:00Z",
+      "tvl": 151000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 0.67,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-03T00:00:00Z",
+      "tvl": 152000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 1.33,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-04T00:00:00Z",
+      "tvl": 153000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 2.0,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-05T00:00:00Z",
+      "tvl": 154000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 2.67,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-06T00:00:00Z",
+      "tvl": 155000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 3.33,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-07T00:00:00Z",
+      "tvl": 156000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 4.0,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-08T00:00:00Z",
+      "tvl": 157000000,
+      "category": "DeFi",
+      "interval": "weekly",
+      "currency": "USD",
+      "change_percentage": 4.67,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-09T00:00:00Z",
+      "tvl": 158000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 5.33,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-10T00:00:00Z",
+      "tvl": 159000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 6.0,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-11T00:00:00Z",
+      "tvl": 160000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 6.67,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-12T00:00:00Z",
+      "tvl": 161000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 7.33,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-13T00:00:00Z",
+      "tvl": 162000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 8.0,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-14T00:00:00Z",
+      "tvl": 163000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 8.67,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-15T00:00:00Z",
+      "tvl": 164000000,
+      "category": "DeFi",
+      "interval": "weekly",
+      "currency": "USD",
+      "change_percentage": 9.33,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-16T00:00:00Z",
+      "tvl": 165000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 10.0,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-17T00:00:00Z",
+      "tvl": 166000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 10.67,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-18T00:00:00Z",
+      "tvl": 167000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 11.33,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-19T00:00:00Z",
+      "tvl": 168000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 12.0,
+      "chain": "Ethereum"
+    },
+    {
+      "timestamp": "2024-12-20T00:00:00Z",
+      "tvl": 169000000,
+      "category": "DeFi",
+      "interval": "daily",
+      "currency": "USD",
+      "change_percentage": 12.67,
+      "chain": "Ethereum"
+    }
+  ]
